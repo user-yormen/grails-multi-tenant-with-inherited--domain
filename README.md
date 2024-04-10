@@ -7,7 +7,7 @@ There will be three domain models.
   * Parent
   * Children
   * 
-The projects looks to create each database schema from the name of the family created.
+The projects look to create each database schema from the name of the family created.
 * ** Model
 * *** Parent belongs to family
 * *** Children inherits from Parents
